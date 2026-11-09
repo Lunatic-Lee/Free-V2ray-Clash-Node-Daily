@@ -9,16 +9,16 @@
 
 ## 🚀 为什么加入我们的频道？
 - **完全免费：** 没有任何解压密码，没有任何套路链接。
-- **一键复制：** 电脑双击、手机长按即可精准复制节点。
-- **独家福利：** 频道内每日自动同步全网最新搞机工具、开源客户端。
+- **一键复制：** 电脑双击、手机长按即可精准复制节点，不再拖泥带水。
+- **极致速度：** 每天自动化测速过滤，油管 4K 无压力秒开。
 
 ---
 
-## 🕒 今日免费节点 (更新于 2026-11-09 11:02:33)
-*(提示：直接点击或长按下方带底色的节点链接，即可一键精准复制)*
+## 🕒 今日免费节点 (更新于 2026-11-09 11:08:57)
+*(提示：直接点击或长按下方带底色的节点链接，即可一键复制)*
 
 - **🇺🇸_US_美国_IPV4**：`vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hfVVNf576O5Zu9X0lQVjQiLCJhZGQiOiIyMy45NC44My4zNyIsInBvcnQiOiI1MjA4MCIsImlkIjoiMzU1YzE3NjAtOWJkZS00Yjc3LTkxNmItNTE5MWU3ZjcwNGEzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJodHRwIiwicGF0aCI6Ii9RUXF1bi03Mzc4MDU0NDMiLCJob3N0IjoiZG93bi1jZG4uZGluZ3RhbGsuY29tIiwic25pIjoiZG93bi1jZG4uZGluZ3RhbGsuY29tIn0=`
-- **🇹🇼 台湾原生 09**：`anytls://0324fbc29561@sdf65h46wr.df6h451rh.xin:443?security=tls&sni=images.ctfassets.net&insecure=1#%F0%9F%87%B9%F0%9F%87%BC_TW_%E5%8F%B0%E6%B9%BE-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_IPV4`
+- **🇭🇰 香港直连 01**：`anytls://0324fbc29561@sdf65h46wr.df6h451rh.xin:443?security=tls&sni=images.ctfassets.net&insecure=1#%F0%9F%87%B9%F0%9F%87%BC_TW_%E5%8F%B0%E6%B9%BE-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_IPV4`
 - **🇺🇸_US_美国_IPV4 (2)**：`vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hfVVNf576O5Zu9X0lQVjQgKDIpIiwiYWRkIjoiMTcyLjY2LjAuMSIsInBvcnQiOiI0NDMiLCJpZCI6IjBjZjZkOTcwLTNmMWQtNGFhZS1hOTg5LTkyYThmNzZhZTNkYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzIiwiaG9zdCI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIn0=`
 - **🌍 🇫🇷_FR_法国_IPV4**：`hysteria://dongtaiwang.com@62.210.28.175:24667?upmbps=11&downmbps=55&security=tls&sni=bing.com&insecure=1&alpn=h3#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD_IPV4`
 - **🌍 🇩🇪_DE_德国_IPV4**：`hysteria://dongtaiwang.com@5.83.129.90:54177?upmbps=11&downmbps=55&security=tls&sni=apple.com&insecure=1&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD_IPV4`
