@@ -10,7 +10,7 @@
 
 - **🔄 更新策略：** 动态网页抓取 + 发版前全自动连通性测活剔除
 - **🟢 整体状态：** 运行正常 (All Systems Operational)
-- **🕒 同步时间：** `2026-11-10 08:48:46`
+- **🕒 同步时间：** `2026-11-10 08:51:39`
 
 ---
 
@@ -22,6 +22,8 @@
 | :--- | :--- | :--- |
 | **⚡ Mfuu 高速订阅** | `近千星标高连通率源，支持多协议` | `https://raw.githubusercontent.com/mfuu/FreeProxies/master/sub` |
 | **🚀 Au1rxx 多端直连** | `按地区和协议碎片化精准分类` | `https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/v2ray-base64.txt` |
+| **🔥 极客公益一号线** | `日常多网互备，流畅稳定` | `https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt` |
+| **🔄 Airport-Free 极速** | `高频自动化筛选续签` | `https://raw.githubusercontent.com/xiaoji235/airport-free/main/v2ray.txt` |
 
 
 ---
@@ -33,4 +35,4 @@
 - **Android:** Clash for Android / v2rayNG
 - **iOS:** Shadowrocket / Quantumult X
 
-*声明：本项目抓取自互联网公开开源数据，仅供学习与网络测试使用。*
+*声明：本项目抓取自互联网公开开源数据，仅供商业学习与网络测试使用。*
